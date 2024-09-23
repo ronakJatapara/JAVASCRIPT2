@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "4984",
+      "firstname": "ronak",
+      "lastname": "jatapara",
+      "email": "ronak@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "7ffb",
+      "firstname": "ronak",
+      "lastname": "jatapara",
+      "email": "ronak@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "542d",
+      "firstname": "ronak",
+      "lastname": "jatapara",
+      "email": "ronak@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "027f",
+      "firstname": "ronak",
+      "lastname": "jatapara",
+      "email": "ronak@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "bd99",
+      "firstname": "pariket",
+      "lastname": "chauhan",
+      "email": "pariket@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "c179",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "fe94",
+      "firstname": "ronak",
+      "lastname": "jatapara",
+      "email": "r@gmail.com",
+      "password": "rrr"
+    },
+    {
+      "id": "4fb7",
+      "firstname": "ronak",
+      "lastname": "jatapara",
+      "email": "r@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "9253",
+      "firstname": "nevil",
+      "lastname": "patadiya",
+      "email": "nevil@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "9611",
+      "firstname": "ronakk",
+      "lastname": "jatapara",
+      "email": "r@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "80a4",
+      "firstname": "sahil",
+      "lastname": "asas",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "a9be",
+      "firstname": "sahil",
+      "lastname": "asas",
+      "email": "sahil@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "img": "https://drinkflyers.com/cdn/shop/files/AperoSpritzCloseUp-1WEB.jpg?v=1717214124&width=1920",
+      "name": "THC Apéro Spritz",
+      "price": "$35.00+"
+    },
+    {
+      "id": "2",
+      "img": "https://drinkflyers.com/cdn/shop/files/OlFashionedCloseUp-2WEB.jpg?v=1717214354&width=832",
+      "name": "THC Ol' Fashioned",
+      "price": "$35.00+"
+    },
+    {
+      "id": "3",
+      "img": "https://drinkflyers.com/cdn/shop/files/MargaritaCloseUp-1Web1x1V3.png?v=1717214253&width=1920",
+      "name": "THC Margarita",
+      "price": "$35.00+"
+    },
+    {
+      "id": "4",
+      "img": "https://drinkflyers.com/cdn/shop/files/FlyersNewCansHero2V3WEBSizing_2024-06-01T04_04_44.717Z.png?v=1717214761&width=1920",
+      "name": "THC PARTY PACK",
+      "price": "$35.00+"
+    },
+    {
+      "id": "5",
+      "img": "https://drinkflyers.com/cdn/shop/files/WatermelonMintHeroCloser-WEB.png?v=1719421273&width=1920",
+      "name": "THC Sunset Spritz - Watermelon Mint",
+      "price": "$35.00+"
+    },
+    {
+      "id": "6",
+      "img": "https://drinkflyers.com/cdn/shop/files/Mango_Guava_Hero_Closer_-_WEB.png?v=1719418924&width=1920",
+      "name": "THC Sunset Spritz - Mango Guava",
+      "price": "$35.00+"
+    },
+    {
+      "id": "7",
+      "img": "https://drinkflyers.com/cdn/shop/files/Grapefruit_LIme_Hero_Closer_-_WEB.png?v=1719417733&width=1920",
+      "name": "THC Sunset Spritz - Grapefruit Lime",
+      "price": "$35.00+"
+    },
+    {
+      "id": "8",
+      "img": "https://drinkflyers.com/cdn/shop/files/SunsetSpritzBeachV2-WEB_e149a476-b080-4b7e-85ef-b306d43717c1.png?v=1719423769&width=1920",
+      "name": "THC SUNSET SPRITZ - PARTY PACK",
+      "price": "$35.00+"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "img": "https://drinkflyers.com/cdn/shop/files/MargaritaCloseUp-1Web1x1V3.png?v=1717214253&width=1920",
+      "name": "THC Margarita",
+      "price": "$35.00+"
+    }
+  ]
+}
