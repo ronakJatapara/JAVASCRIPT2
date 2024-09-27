@@ -192,5 +192,144 @@
     width: 100%;
     height: 900px;
     border: 1px solid black;
+    background-color: black;
     
+}
+#slider{
+    height: 500px;
+    /* width: 100%; */
+    /* border: 1px solid black; */
+}
+.swiper-slide{
+    height: 500px;
+    width: 32%;
+    /* border: 1px solid red; */
+}
+.swiper-slide img{
+    height: 100%;
+    width: 100%;
+}
+#btn5{
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    height: 35px;
+    width: 90px;
+    border-radius: 20px;
+    border: none;
+
+}
+#btn5:hover{
+    background-color: #c2c0c0;
+    color: white;
+}
+#p1{
+    position: absolute;
+    bottom: 80px;
+    left: 55px;
+    color: white;
+    font-size: 20px;
+}
+#productBox{
+    /* border: 1px solid black; */
+    /* display: flex; */
+    float: left;
+}
+.main{
+    width: 100%;
+    /* border: 1px solid black; */
+    /* height: 500px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.box{
+    width: 100%;
+    height: 500px;
+    /* border: 1px solid black; */
+    margin-top: 50px;
+}
+.image{
+    height: 320px;
+    width: 100%;
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: relative;
+}
+.image img{
+    height: 100%;
+    width: 100%;
+}
+#fixed{
+    
+    z-index: 1;
+    background-color: white;
+}
+
+#btn6{
+    position: absolute;
+    bottom: -50px;
+    left: 0;
+    width: 60px;
+    transition: 1s;
+    border: none;
+    height: 30px;
+    border-radius: 10px;
+
+
+}
+.image:hover #btn6{
+    bottom: 40px;
+    left: 80px;
+    background-color: black;
+    color: white;
+}
+#btn7{
+    position: absolute;
+    bottom: -50px;
+    right: 0;
+    width: 60px;
+    transition: 1s;
+    border: none;
+    height: 30px;
+    border-radius: 10px;
+
+
+}
+#btn7:hover{
+    background-color: white;
+    color: black;
+}   
+.image:hover #btn7{
+    bottom: 40px;
+    right: 80px;
+    background-color: black;
+    color: white;
+}
+#sidebar{
+    height: 1200px;
+    /* border: 1px solid black;  */
+    position: sticky;
+    top: 0;
+    overflow: scroll;
+}
+
+#p2{
+    padding-top: 20px;
+    cursor: pointer;
+    padding-left: 20px;
+}
+#p3{
+    font-size: 28px;
+    padding-left: 20px;
+}
+#a7{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding-left: 20px;
+}
+.fa-chevron-down{
+    position: absolute;
+    right: 20px;
 }

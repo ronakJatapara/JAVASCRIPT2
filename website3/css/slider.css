@@ -1,0 +1,16 @@
+.testimonial-slider-rtl {
+  width: 100%;
+  height: 100%;
+  padding-top:  20px;
+overflow:hidden;/* Ensure the container itself is in RTL mode */
+}
+.swiper-button-next {
+  left: 10px; /* Adjust position for RTL */
+  right: auto;
+}
+.swiper-button-prev {
+  right: 10px; /* Adjust position for RTL */
+  left: auto;
+}
+
+.testimonial-slider-rtl  img{ width : 100%;  height: 90vh; object-fit:cover; }

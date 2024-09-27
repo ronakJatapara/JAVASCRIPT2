@@ -1,156 +1,358 @@
 {
-  "users": [
+  "product1": [
     {
-      "id": "6fe4",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41e1a36c-db8d-4fb6-8b99-e5d431cee1dd/NIKE+PEGASUS+TRAIL+5+GTX.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "1"
     },
     {
-      "id": "834a",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/338c1adf-2c17-43f5-9577-b40e63f04c35/W+NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "2"
     },
     {
-      "id": "14f4",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/24c4a60a-87e1-4c38-aa59-b404783b3480/W+NIKE+JUNIPER+TRAIL+3.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "3"
     },
     {
-      "id": "bfc7",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e71cc034-56c3-4b85-80b2-e8a5c190b23b/NIKE+JUNIPER+TRAIL+3.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "4"
     },
     {
-      "id": "fe38",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c9dc2f0e-022a-4477-8be5-580e3aeaa238/AS+M+NK+DF+TRAIL+MIDLAYER+HZ.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "5"
     },
     {
-      "id": "9b53",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2862b680-2e59-4bb1-985b-0eb4074c5d3b/NIKE+PEGASUS+TRAIL+5+GTX.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "6"
     },
     {
-      "id": "12d0",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5959662d-01f5-4e66-aa20-87691c90d0b7/W+PEGASUS+TRAIL+5+GTX.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "7"
     },
     {
-      "id": "719b",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f19ff63b-bb6b-4bb5-ad01-49e71f611500/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "8"
     },
     {
-      "id": "5cfa",
-      "Email": "r@gmail.com"
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f0067845-939e-49f7-9851-380e75239c27/W+PEGASUS+TRAIL+5+GTX.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "9"
     },
     {
-      "id": "d310",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b10b5561-ff15-48a2-8fcb-e24daccc73a0/NIKE+ZOOMX+ULTRAFLY+TRAIL.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "10"
     },
     {
-      "id": "f5d4",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c9dc2f0e-022a-4477-8be5-580e3aeaa238/AS+M+NK+DF+TRAIL+MIDLAYER+HZ.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "11"
     },
     {
-      "id": "ad16",
-      "Email": ""
+      "image": "  https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7e89c495-35e1-4e01-8dcb-30aaf75b6f0d/NIKE+JUNIPER+TRAIL+3.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "12"
     },
     {
-      "id": "52c1",
-      "Email": ""
+      "image": "    https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/58c9ab59-7704-4c42-8fba-018cc6db8f85/AS+M+NK+DF+TRL+STRIDE+MB+SHORT.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "13"
     },
     {
-      "id": "7a35",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3232102b-23d9-4857-a095-7a9e3d3dc507/W+NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "14"
     },
     {
-      "id": "4059",
-      "Email": ""
+      "image": "  https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3b50d026-8a71-4355-bfb5-05f06e933a2e/NIKE+REACTX+PEGASUS+TRAIL+5.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "15"
     },
     {
-      "id": "a6a6",
-      "Email": ""
+      "image": " https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bfe41be6-2070-4e3b-9865-0e9d40b77166/W+NIKE+JUNIPER+TRAIL+3.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "16"
     },
     {
-      "id": "ed63",
-      "Email": ""
+      "image": "    https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ee6a118d-01cd-4d13-93f4-d47fb8bfbd06/AS+M+NK+DF+LAVA+LOOPS+HALF+TI.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "17"
     },
     {
-      "id": "fa0f",
-      "Email": ""
+      "image": "   https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/97d53ace-544d-404c-a54d-8d9e0e3c854b/NIKE+JUNIPER+TRAIL+3.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "18"
     },
     {
-      "id": "f698",
-      "Email": ""
+      "image": " https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bcbf014c-9187-465d-b7e8-3e9e3e252ccf/NIKE+JUNIPER+TRAIL+2+NN.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "19"
     },
     {
-      "id": "8ad9",
-      "Email": ""
+      "image": " https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0fdf9d0b-d502-490b-ab7d-199c3447b9e4/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "20"
     },
     {
-      "id": "2b85",
-      "Email": ""
+      "image": "   https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0fdf9d0b-d502-490b-ab7d-199c3447b9e4/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "21"
     },
     {
-      "id": "fb9f",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3f1cc4f6-5348-414c-9eac-c41d6e9c6608/NIKE+JUNIPER+TRAIL+2+GTX+V2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "22"
     },
     {
-      "id": "364b",
-      "Email": ""
+      "image": " https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8121e695-b01c-478c-ae40-a085b7481f8b/AS+W+NK+TRAIL+REPEL+VEST.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "23"
     },
     {
-      "id": "f473",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22b866f5-700d-4eb6-ac88-a197c9aa8694/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "24"
     },
     {
-      "id": "1613",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8511b1b3-6734-4872-9290-d5c57ea3f6fd/AS+M+NK+DF+TEE+UTMB+ENERGY.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "25"
     },
     {
-      "id": "b6db",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1177e9c0-b0e1-4ab9-bdcd-849c5d61fc90/AS+W+NK+TRAIL+RPL+UV+JACKET.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "26"
     },
     {
-      "id": "7f53",
-      "Email": ""
+      "image": " https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6a98e6b-6727-4b87-aac2-d967eab7a532/NIKE+REACT+PEGASUS+TRAIL+4.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "27"
     },
     {
-      "id": "2235",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5e90092a-3d5e-4e09-b286-b4d56074e6c7/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "28"
     },
     {
-      "id": "295c",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5ae73389-8abd-4bf0-bfcd-bb6a61d5f2ad/NIKE+PEGASUS+TRAIL+5+GTX.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "29"
     },
     {
-      "id": "7ddb",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/65a947a3-6cca-4cac-862d-71c9897b4a70/W+NIKE+JUNIPER+TRAIL+3.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "30"
     },
     {
-      "id": "0ac1",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/996afa1b-73a2-423e-a982-8dd7df14b0da/W+NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "31"
     },
     {
-      "id": "26b3",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0aa8ae9d-8d63-4ab8-9e5a-a2fcf5d4f71e/AS+W+NK+TRAIL+REPEL+MR+PANT.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "32"
     },
     {
-      "id": "2659",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1856b680-4e0e-4ccc-a594-c56b62720b0c/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "33"
     },
     {
-      "id": "d372",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/34223ae2-eea3-44fd-8523-dad97a8b7455/AS+M+NK+DF+SOLAR+CHASE+SS+TOP.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "34"
     },
     {
-      "id": "f393",
-      "Email": ""
+      "image": " https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/582e613c-f5cb-432b-919c-d0b703e390f2/W+NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "35"
     },
     {
-      "id": "d010",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0a1db69e-153c-4805-b309-97199b44cdb8/AS+M+NK+DF+SECONDSUNRISE+5BF+S.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "36"
     },
     {
-      "id": "b562",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4a8f697b-14af-434e-a0ec-9b8859e9a10a/AS+W+NK+TRAIL+RPL+MR+3IN+BRSHR.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "37"
     },
     {
-      "id": "de51",
-      "Email": ""
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/391eee69-1ad2-4dcd-b837-bb0784367c62/AS+M+NK+TRAIL+AIREEZ+JKT.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "38"
+    },
+    {
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/208dead7-1be2-458c-ac64-425966c17dd0/AS+M+NK+DF+TEE+UTMB+ENERGY.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "39"
+    },
+    {
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5c2f0db0-9338-48ed-9112-bbe60ee32bcf/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "40"
+    },
+    {
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a282de67-2f11-4ba8-95bf-92920057c84d/AS+M+NK+DF+DAWN+RANGE+PANT.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "41"
+    },
+    {
+      "image": "  https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e64473de-50f2-441b-9e7d-2f7abf79bb80/AS+W+NK+TRAIL+DF+STORAGE+TANK.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "42"
+    },
+    {
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/384eebc6-35ad-4c75-b950-c4daa8638716/AS+W+NK+TRAIL+DF+STORAGE+TANK.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00",
+      "id": "43"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41e1a36c-db8d-4fb6-8b99-e5d431cee1dd/NIKE+PEGASUS+TRAIL+5+GTX.png",
+      "Brand": "BestSeller",
+      "title": "Nike Pegasus Trail 5 GORE-TEX",
+      "color": "1 Color",
+      "price": "MRP $15995.00"
     }
   ]
 }

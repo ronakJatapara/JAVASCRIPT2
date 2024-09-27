@@ -5,7 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/slider.css">
+
+    
+
+
+
 
 
     <!-- fontawesome cdn  -->
@@ -28,84 +39,144 @@
 
 
 
+
+
 </head>
 
 <body>
 
 
-   <div class="container-fluid border">
+    <div class="container-fluid border">
 
 
-    <div class="row border">
-        <div class="col-2 d-flex justify-content-center">
-    <img src="img/logo2.png" alt="" id="img3">
+        <div class="row border">
+            <div class="col-2 d-flex justify-content-center">
+                <img src="img/logo2.png" alt="" id="img3">
+            </div>
+            <div class="col-10 d-flex justify-content-end align-items-center">
+                <a href="" id="a1">Find a Store</a>
+                <font class="pe-3">|</font>
+                <a href="" id="a1">Help</a>
+                <font class="pe-3">|</font>
+
+                <a href="" id="a1">Join Us</a>
+                <font class="pe-3">|</font>
+
+                <a href="login.html" id="a1">Sign In</a>
+            </div>
         </div>
-        <div class="col-10 d-flex justify-content-end align-items-center">
-            <a href="" id="a1">Find a Store</a>
-            <font class="pe-3">|</font>
-            <a href="" id="a1">Help</a>
-            <font class="pe-3">|</font>
 
-            <a href="" id="a1">Join Us</a>
-            <font class="pe-3">|</font>
+        <div class="row">
+            <div class="col-sm-12 col-lg-6 col-xl-2 d-flex justify-content-center ">
+                <img src="img/logo.jpg" alt="" id="img4">
+            </div>
+            <div class="col-sm-12 col-lg-6 col-xl-7  d-flex justify-content-center align-items-center">
+                <a href="" id="a2">New & Featured</a>
+                <a href="" id="a2">Men
+                </a>
 
-            <a href="login.html" id="a1">Sign In</a>
+                <a href="" id="a2">Women</a>
+
+                <a href="" id="a2">Kids</a>
+
+                <a href="" id="a2">Sale</a>
+
+                <a href="" id="a2">Customise
+                </a>
+
+                <a href="" id="a2">SNKRS</a>
+
+            </div>
+            <div
+                class="col-6 col-xl-2  position-relative d-flex justify-content-center align-items-center align-items-center">
+
+                <input type="text" name="" id="input10" placeholder="Search">
+            </div>
+            <div class="col-6 col-xl-1  d-flex justify-content-center align-items-center">
+                <a href="" id="a3">
+                    <i class="fa-regular fa-heart"></i>
+                </a>
+                <a href="" id="a3">
+                    <i class="fa-solid fa-bag-shopping"></i>
+                </a>
+            </div>
         </div>
+
+        <div class="row">
+            <div class="col-12" id="col2">
+                <p class="" id="a4">New Styles On Sale: Up To 40% Off</p>
+                <p id="a5">Shop All Our New Markdowns</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12" id="col3">
+
+            </div>
+        </div>
+
     </div>
 
-    <div class="row">
-        <div class="col-sm-12 col-lg-6 col-xl-2 d-flex justify-content-center ">
-            <img src="img/logo.jpg" alt="" id="img4">
+    <div class="swiper-container testimonial-slider-rtl" dir="rtl">
+        <div class="swiper-wrapper" id="slider">
+          <div class="swiper-slide position-relative"><img src="img/n1.jpg">
+       <a href="product1.html"> <button id="btn5">Shop</button></a>
+    <p id="p1">
+        Performance For Every Terrain
+      
+        </p></div>
+          <div class="swiper-slide"><img src="img/n2.jpg">
+            <button id="btn5">Shop</button>
+            <p id="p1">
+               Sabrina 2
+              
+                </p></div>
+          <div class="swiper-slide"><img src="img/n3.jpg">
+          <button id="btn5">Shop</button>
+            <p id="p1">
+Giannis Freak 6 ‘Naija’
+ </p></div>
+          <div class="swiper-slide"><img src="img/n4.jpg">
+          <button id="btn5">Download</button>
+            <p id="p1">
+              
+Available on App: Kobe 8
+
+
+              
+                </p></div>
+          <div class="swiper-slide"><img src="img/n5.jpg">
+          <button id="btn5">Shop</button>
+            <p id="p1">
+               Easyon
+              
+                </p></div>
+          <!-- <div class="swiper-slide"><img src=""></div> -->
         </div>
-        <div class="col-sm-12 col-lg-6 col-xl-7  d-flex justify-content-center align-items-center">
-            <a href=""id="a2">New & Featured</a>
-            <a href=""id="a2">Men
-            </a>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+        <!-- Add Navigation -->
+      
+      </div>
+      
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    
 
-            <a href=""id="a2">Women</a>
 
-            <a href=""id="a2">Kids</a>
-
-            <a href=""id="a2">Sale</a>
-
-            <a href=""id="a2">Customise
-            </a>
-
-            <a href=""id="a2">SNKRS</a>
-
-        </div>
-        <div class="col-6 col-xl-2  position-relative d-flex justify-content-center align-items-center align-items-center">
-           
-            <input type="text" name="" id="input10" placeholder="Search">
-        </div>
-        <div class="col-6 col-xl-1  d-flex justify-content-center align-items-center">
-            <a href="" id="a3">
-                <i class="fa-regular fa-heart"></i>
-            </a>
-            <a href="" id="a3">
-                <i class="fa-solid fa-bag-shopping"></i>
-            </a>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-12" id="col2">
-            <p class="" id="a4">New Styles On Sale: Up To 40% Off</p>
-            <p id="a5">Shop All Our New Markdowns</p>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-12" id="col3">
-
-        </div>
-    </div>
-
-   </div>
 
 
 
 </body>
 <script src="js/index.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"
+    integrity="sha512-Ysw1DcK1P+uYLqprEAzNQJP+J4hTx4t/3X2nbVwszao8wD+9afLjBQYjz7Uk4ADP+Er++mJoScI42ueGtQOzEA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+     <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+ 
 
 </html>
