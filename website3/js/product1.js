@@ -29,7 +29,7 @@
                           
                                <div class="image">
                                       <img src="${el.image}" alt="Product Image">
-                                          <input type="submit" name="" id="btn6" value="View"> 
+                                          <input type="submit" name="" id="btn6" value="View" onclick="add2(${el.id})"> 
                                           <input type="submit" name="" id="btn7" value="Add" onclick="add(${el.id})"> 
 
                                  
@@ -70,6 +70,8 @@
         })
     }
 
+   
+
  
 
 
@@ -93,6 +95,49 @@ function posting(obj)
         console.log(err);
         
     })
+}
+
+
+
+// function for single product 
+
+function add2(id)
+{
+    fetch(`http://localhost:3000/product1/${id}`)
+    .then((res)=>{
+        return res.json();
+    })
+    .then((res)=>{
+        // console.log(res);
+        posting2(res);
+        
+    })
+    .catch((err)=>{
+        console.log(err);
+        
+    })
+}
+
+function posting2(obj)
+{
+      fetch(`http://localhost:3000/single`,{
+        method: "POST",
+        headers:{
+            "Content-Type":"application-json",
+        },
+        body:JSON.stringify(obj)
+      })
+      .then((res)=>{
+        return res.json();
+      })
+      .then((Res)=>{
+        console.log(Res);
+        
+      })
+      .catch((err)=>{
+        console.log(err);
+        
+      })
 }
 
 
